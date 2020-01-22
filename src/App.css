@@ -1,3 +1,15 @@
 .main {
   margin: 20px;
 }
+
+.head {
+  text-align: center;
+  background: #212931;
+  color: #f4f4f4;
+  padding: 10px;
+  font-size: 3em;
+}
+
+.clock-card {
+  margin: 20px;
+}
